@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Chinmoy Biswas
 
-<!--
-**biswaschinmoy55/biswaschinmoy55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full Stack Developer from India, working with Laravel, WordPress, REST APIs, Salesforce, Docker, and cloud deployment.
 
-Here are some ideas to get you started:
+## Skills
+- Laravel / PHP
+- WordPress Custom Development
+- JavaScript / HTML / CSS
+- REST API Development
+- MySQL / MongoDB
+- Salesforce Admin & Developer Basics
+- Docker / GCP Deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Gold Purchase Management Software
+- WordPress Contact Form + Admin Panel
+- Restaurant Website SEO & Landing Pages
+- Salesforce Student Management App
+
+## Contact
+- LinkedIn: [https://linkedin.com/in/chinmoy-biswas-1a805615b]
+- Email: biswas.chinmoy55@gmail.com
