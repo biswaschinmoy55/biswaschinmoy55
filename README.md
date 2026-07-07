@@ -6,6 +6,10 @@ I am a Full Stack Developer from India, working with Laravel, WordPress, REST AP
 - Laravel / PHP
 - WordPress Custom Development
 - JavaScript / HTML / CSS
+- Nodejs
+- Nestjs
+- Angularjs
+- TypeScript
 - REST API Development
 - MySQL / MongoDB
 - Salesforce Admin & Developer Basics
